@@ -42,7 +42,7 @@ In short, an epic is a body of work that can be broken down into specific tasks 
 * Continuous modification of user stories
 * Effective teamwork and communication
 
-//TODO guidelines for making an Epic, maybe in the form of an example
+//TODO example
 
 # How Do User and Epic Stories Fit In With Agile and SCRUM?
 
