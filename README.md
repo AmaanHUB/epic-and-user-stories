@@ -1,4 +1,4 @@
-# Epic and User Stories
+# User and Epic Stories
 
 ## User Stories
 
@@ -21,3 +21,11 @@ They are an informal, general explanation of a software feature written from the
 
 ### User Story Examples
 //TODO
+
+
+## Epic Stories
+
+In short, an epic is an body of work that can be broken down into specific tasks (user stories) based upon the needs and requests of customers or end users. They can be a helpful way to organise work and create a hierarchy so that work can be broken down into shippable pieces so that large projects can get done on time and can continue to be shipped to customers on a regular basis.
+
+
+**_Epics help teams break their work down, while continuing  to work towards a bigger goal._**
